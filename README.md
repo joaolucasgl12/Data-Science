@@ -18,7 +18,6 @@ Graduando em Engenharia Mecânica e Aluno do sigmoidal.ia .
 * [LinkedIn](https://bit.ly/3lJiEOf)
 
 
-
 ## Projetos:
 
 
