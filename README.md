@@ -9,7 +9,7 @@
 
 Combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Durante as criações dos projetos, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
 
-Graduando em Engenharia Mecânica e Aluno do sigmoidal.ia .
+Graduando em Engenharia Mecânica (Unip) e Aluno do DSNP 3.0 (sigmoidal.ia) .
 
 **Fundo em:** Python e Machine Learning .
 
