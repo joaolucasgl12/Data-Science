@@ -20,7 +20,7 @@ Graduando em Engenharia Mecânica e Aluno do sigmoidal.ia .
 
 ## Projetos:
 
-
+* **Analisando os Dados do Airbnb-London:**https://bit.ly/3CyjYcJ
 
 ---
 
