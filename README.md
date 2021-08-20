@@ -20,7 +20,8 @@ Graduando em Engenharia Mecânica (Unip) e Aluno do DSNP 3.0 (sigmoidal.ia) .
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb - Londres :** https://bit.ly/3yHwdBq
+* **Analisando os Dados do Airbnb - Londres:** https://bit.ly/3yHwdBq
+* **Panorama Covid 19:** https://bit.ly/3sDMIMK
 
 ## Artigos:
 
