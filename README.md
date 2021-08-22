@@ -11,7 +11,7 @@ Combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe 
 
 Graduando em Engenharia Mecânica (Unip) e Aluno do DSNP 3.0 (sigmoidal.ia) .
 
-**Fundo em:** Python e data analytics .
+**Fundo em:** Python e Data Analytics .
 
 **Links:**
 
