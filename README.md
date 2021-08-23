@@ -21,8 +21,7 @@ Graduando em Engenharia Mecânica (Unip) e Aluno do DSNP 3.0 (sigmoidal.ia) .
 ## Projetos:
 
 * **Analisando os Dados do Airbnb - Londres:** https://bit.ly/3yHwdBq
-* **Brasil é o 2° país com mais mortes por covid 19:** https://bit.ly/2Wjgc68
-
+* **Brasil é o 2° país com mais mortes por covid 19:** https://cutt.ly/mQ57Fen
 ## Artigos:
 
 * **Analisando os Dados do Airbnb - Londres :** https://bit.ly/3g88z9Q
