@@ -15,7 +15,7 @@ Graduando Engenharia Mecânica (Unip) e Aluno do DSNP 3.0 (sigmoidal.ia) .
 
 **Links:**
 
-* [LinkedIn](https://bit.ly/3lJiEOf)
+* [Instagram](https://bit.ly/3hHa5QW)
 
 
 ## Projetos:
