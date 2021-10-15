@@ -23,7 +23,7 @@ Graduando Engenharia Mecânica (Unip) e Aluno do DSNP 3.0 (sigmoidal.ia) .
 * **Analisando os Dados do Airbnb - Londres:** https://bit.ly/3yHwdBq
 * **Brasil é o 2° país com mais mortes por covid 19:** https://cutt.ly/mQ57Fen
 * **Detecção de fraudes em cartões de créditos:** https://bit.ly/3kQdhe7
-* **Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3DNKaQa
+* **Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3DLGOxa
 ## Artigos:
 
 * **Analisando os Dados do Airbnb - Londres :** https://bit.ly/3g88z9Q
