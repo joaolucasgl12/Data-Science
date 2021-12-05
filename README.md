@@ -6,6 +6,7 @@
 
 # João Lucas Gonçalves Lopes
 <sub>*Cientista de dados* </sub>
+
 Ex atleta bolsista  de handball, Graduando Engenharia Mecânica (Unip)
 
 Combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe, foco nos resultados, curioso em aprender, proativo , comunicativo, motivado e responsável. Durante as criações dos projetos, desenvolvi um pensamento crítico e habilidades de resolução de problemas
